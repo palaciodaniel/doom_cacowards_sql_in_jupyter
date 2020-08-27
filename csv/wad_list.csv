@@ -1,0 +1,163 @@
+id_wad,award_year,wad_title,iwad,num_levels,single_player,cooperative,deathmatch,skill_levels,size_mb,download_url
+0001,2004,Action Doom,Doom 2,6,TRUE,FALSE,FALSE,TRUE,14.35,www.doomworld.com/idgames/levels/doom2/Ports/a-c/action
+0002,2004,Decade,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.63,www.doomworld.com/idgames/levels/doom2/Ports/d-f/decade
+0003,2004,RTC-3057: Blue,Doom 2,7,TRUE,FALSE,FALSE,FALSE,52.75,www.doomworld.com/idgames/levels/doom2/Ports/0-9/3057hub1
+0004,2004,Grove,Doom 2,1,TRUE,TRUE,TRUE,TRUE,0.56,www.doomworld.com/idgames/levels/doom2/Ports/g-i/grove
+0005,2004,Tremor: Part I - Genesis,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.83,www.doomworld.com/idgames/levels/doom2/Ports/s-u/tremor
+0006,2004,Chosen 1.33,Doom 2,10,TRUE,FALSE,FALSE,FALSE,8.92,www.doomworld.com/idgames/levels/doom2/Ports/a-c/ch133
+0007,2004,Phobos Revisited,Doom,9,TRUE,FALSE,TRUE,TRUE,0.8,www.doomworld.com/idgames/levels/doom/p-r/phobos-v
+0008,2004,Hell Revealed 2,Doom 2,32,TRUE,FALSE,FALSE,TRUE,2.43,www.doomworld.com/idgames/themes/hr/hr2final
+0009,2004,Community Chest 2,Doom 2,32,TRUE,TRUE,FALSE,TRUE,8.5,www.doomworld.com/idgames/levels/doom2/Ports/megawads/cchest2
+0010,2004,ZDoom Community Maps,Doom 2,1,TRUE,TRUE,FALSE,TRUE,6.42,www.doomworld.com/idgames/levels/doom2/Ports/v-z/zdmcmp1
+0011,2005,Simplicity,Doom 2,30,TRUE,TRUE,FALSE,TRUE,15.23,www.doomworld.com/idgames/levels/doom2/Ports/megawads/sp_usimp
+0012,2005,Scythe 2,Doom 2,32,TRUE,TRUE,FALSE,TRUE,7.73,www.doomworld.com/idgames/levels/doom2/Ports/megawads/scythe2
+0013,2005,HedRox,Doom 2,1,TRUE,FALSE,TRUE,FALSE,0.49,www.doomworld.com/idgames/levels/doom2/Ports/g-i/hedrox
+0014,2005,Suspended in Dusk,Doom 2,4,TRUE,FALSE,FALSE,FALSE,1.84,www.doomworld.com/idgames/levels/doom2/s-u/sid
+0015,2005,KamaSutra,Doom 2,32,TRUE,FALSE,FALSE,FALSE,4.78,www.doomworld.com/idgames/levels/doom2/megawads/ksutra
+0016,2005,Congestion 1024,Doom 2,32,TRUE,FALSE,FALSE,TRUE,3.58,www.doomworld.com/idgames/levels/doom2/Ports/megawads/1024
+0017,2005,Hi-Tech Hell 2: Alien Tech,Doom 2,7,TRUE,FALSE,FALSE,TRUE,3.02,www.doomworld.com/idgames/levels/doom2/Ports/g-i/hth2
+0018,2005,Temple of Chaos 2: Warped Reality,Doom 2,1,TRUE,FALSE,FALSE,FALSE,1.65,www.doomworld.com/idgames/levels/doom2/s-u/sp_chao2
+0019,2005,Crimson Canyon,Doom 2,12,TRUE,FALSE,FALSE,TRUE,1.51,www.doomworld.com/idgames/levels/doom2/Ports/a-c/crmsn37
+0020,2005,Total Control,Doom 2,1,TRUE,FALSE,FALSE,TRUE,2.17,www.doomworld.com/idgames/levels/doom2/Ports/s-u/total666
+0021,2006,Phocas Island 2,Doom 2,6,TRUE,FALSE,FALSE,TRUE,6.78,www.doomworld.com/idgames/levels/doom2/Ports/p-r/phocas2
+0022,2006,IC2005,Doom 2,1,TRUE,TRUE,FALSE,TRUE,1.48,www.doomworld.com/idgames/levels/doom2/Ports/g-i/ic2005
+0023,2006,Hellcore v2.0,Doom 2,12,TRUE,TRUE,FALSE,TRUE,10.99,www.doomworld.com/idgames/levels/doom2/Ports/g-i/hc20
+0024,2006,New Doom Community Map Project,Doom 2,32,TRUE,FALSE,FALSE,TRUE,7.02,www.doomworld.com/idgames/levels/doom2/Ports/megawads/ndcp
+0025,2006,Operation Overlord,Doom 2,1,TRUE,FALSE,FALSE,TRUE,5.28,www.doomworld.com/idgames/levels/doom2/Ports/m-o/njol
+0026,2006,Vae Victus 2,Doom 2,7,TRUE,TRUE,FALSE,TRUE,1.7,www.doomworld.com/idgames/levels/doom2/Ports/v-z/vv2
+0027,2006,Phobia: The Age,Doom 2,8,TRUE,FALSE,FALSE,TRUE,34.31,www.doomworld.com/idgames/levels/doom2/Ports/p-r/phobiata
+0028,2006,Foreverhood v1.0,Doom 2,NULL,NULL,NULL,NULL,NULL,25.8,iamsparky.wordpress.com/foreverhood/
+0029,2006,Classic Episode 2: Singularity Complex,Doom,9,TRUE,NULL,NULL,NULL,0.95,www.doomworld.com/idgames/levels/doom/Ports/a-c/class_e2
+0030,2006,Crucified Dreams,Doom 2,41,FALSE,FALSE,TRUE,TRUE,9.09,www.doomworld.com/idgames/levels/doom2/deathmatch/Ports/megawads/crudream
+0031,2007,Genesis of Descent,Doom,1,TRUE,FALSE,FALSE,FALSE,2.96,www.doomworld.com/idgames/levels/doom/Ports/g-i/god_
+0032,2007,Cheogsh,Doom 2,1,TRUE,FALSE,FALSE,TRUE,4.37,www.doomworld.com/idgames/levels/doom2/Ports/a-c/cheogsh
+0033,2007,Songs of the Damned,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.95,www.doomworld.com/idgames/levels/doom2/Ports/s-u/songs
+0034,2007,The Dying End,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.55,www.doomworld.com/idgames/levels/doom2/Ports/s-u/tde-lutz
+0035,2007,Sine Die,Doom 2,2,TRUE,FALSE,FALSE,TRUE,2.36,www.doomworld.com/idgames/levels/doom2/Ports/s-u/sinedie
+0036,2007,Knee Deep in ZDoom,Doom,10,TRUE,TRUE,FALSE,TRUE,23.07,www.doomworld.com/idgames/levels/doom/Ports/megawads/kdizd_12
+0037,2007,Community Chest 3,Doom 2,32,TRUE,FALSE,FALSE,TRUE,12.32,www.doomworld.com/idgames/levels/doom2/Ports/megawads/cchest3
+0038,2007,Epic,Doom 2,5,TRUE,FALSE,FALSE,TRUE,1.28,www.doomworld.com/idgames/levels/doom2/Ports/d-f/epic
+0039,2007,Ultimate Torment & Torture,Doom 2,8,TRUE,TRUE,FALSE,TRUE,65.06,www.doomworld.com/idgames/levels/doom2/Ports/s-u/tutnt
+0040,2007,The Outer Darkness,Doom,1,TRUE,TRUE,FALSE,TRUE,0.37,www.doomworld.com/idgames/levels/doom/Ports/m-o/odark
+0041,2008,Deus Vult 2,Doom 2,11,TRUE,TRUE,FALSE,TRUE,75.74,www.doomworld.com/idgames/levels/doom2/Ports/d-f/dvii-1i
+0042,2008,Gravity,Doom 2,2,TRUE,FALSE,FALSE,TRUE,1.28,www.doomworld.com/idgames/levels/doom2/Ports/g-i/gravity
+0043,2008,Urban Brawl: Action Doom 2,(STANDALONE),9,TRUE,TRUE,FALSE,TRUE,56.9,https://www.doomworld.com/idgames/levels/doom2/Ports/a-c/action2
+0044,2008,Eternal Doom IV,Doom 2,7,TRUE,TRUE,FALSE,TRUE,15.43,www.doomworld.com/idgames/themes/TeamTNT/ed4_rfo/ed4_rfo1
+0045,2008,Thunderpeak,Doom 2,2,TRUE,FALSE,FALSE,TRUE,8.83,www.doomworld.com/idgames/levels/doom2/Ports/s-u/thunpeak
+0046,2008,Back to Basics,Doom,9,TRUE,FALSE,FALSE,FALSE,1.35,www.doomworld.com/idgames/levels/doom/a-c/b2b
+0047,2008,BGPA Missions: Liberation,Doom 2,5,TRUE,FALSE,FALSE,TRUE,34.79,www.doomworld.com/idgames/levels/doom2/Ports/m-o/njbgpabh
+0048,2008,Chex Quest 3,NULL,NULL,TRUE,TRUE,NULL,NULL,8.3,www.chucktropolis.com/downloads/ChexQuest3.zip
+0049,2008,Escape from Castle Chezcrea,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.66,www.doomworld.com/idgames/levels/doom2/Ports/a-c/crea_one
+0050,2008,Cold as Hell,Doom 2,17,TRUE,FALSE,FALSE,TRUE,45.99,www.doomworld.com/idgames/levels/doom2/Ports/a-c/cah_se
+0051,2009,Hell Ground,Doom 2,7,TRUE,FALSE,FALSE,TRUE,47.45,www.doomworld.com/idgames/levels/doom2/Ports/g-i/hg
+0052,2009,New Doom Community Project II,Doom 2,32,TRUE,FALSE,FALSE,TRUE,18.97,www.doomworld.com/idgames/levels/doom2/Ports/megawads/ndcp2
+0053,2009,Harmony,(STANDALONE),11,TRUE,NULL,NULL,NULL,42,heroestospare.com/rabotik/harmony.php
+0054,2009,Mapgame,Doom,9,TRUE,FALSE,FALSE,TRUE,1.73,www.doomworld.com/idgames/levels/doom/Ports/m-o/mapgame
+0055,2009,Legacy of Suffering,Doom 2,10,TRUE,TRUE,TRUE,TRUE,87.82,www.doomworld.com/idgames/levels/doom2/Ports/j-l/los
+0056,2009,Tribute,Doom 2,4,TRUE,TRUE,FALSE,TRUE,40.07,www.doomworld.com/idgames/levels/doom2/Ports/s-u/tribute
+0057,2009,Ghouls vs Humans,Doom 2,10,FALSE,FALSE,TRUE,FALSE,24.64,www.doomworld.com/idgames/deathmatch/skulltag/gvh
+0058,2009,Whispers of Satan,Doom 2,35,TRUE,FALSE,FALSE,TRUE,10.9,www.doomworld.com/idgames/levels/doom2/Ports/megawads/wos
+0059,2009,Demons of Problematique 2,Doom 2,5,TRUE,FALSE,FALSE,TRUE,9.26,www.doomworld.com/idgames/levels/doom2/Ports/d-f/dop2
+0060,2009,Plutonia 2,Doom 2,32,TRUE,TRUE,TRUE,TRUE,5.13,www.doomworld.com/idgames/levels/doom2/megawads/pl2
+0061,2010,No Rest for the Living,Doom 2,9,TRUE,NULL,NULL,NULL,NULL,https://www.gog.com/game/doom_3_bfg_edition
+0062,2010,Arcadia Demade,Doom 2,1,TRUE,TRUE,TRUE,TRUE,0.61,www.doomworld.com/idgames/levels/doom2/Ports/a-c/arcadia
+0063,2010,Curse of D'sparil,Heretic,9,TRUE,TRUE,FALSE,TRUE,4.55,www.doomworld.com/idgames/levels/heretic/Ports/curse
+0064,2010,UAC Ultra,Doom 2,12,TRUE,TRUE,FALSE,TRUE,2.2,www.doomworld.com/idgames/levels/doom2/Ports/s-u/uacultra
+0065,2010,Unloved,Doom 2,5,TRUE,FALSE,FALSE,TRUE,40.93,www.doomworld.com/idgames/levels/doom2/Ports/s-u/unloved
+0066,2010,Valhalla,Doom 2,1,TRUE,TRUE,FALSE,TRUE,8.83,www.doomworld.com/idgames/levels/doom2/Ports/m-o/ma_val
+0067,2010,Speed of Doom,Doom 2,33,TRUE,TRUE,FALSE,TRUE,8.83,www.doomworld.com/idgames/levels/doom2/Ports/megawads/sodfinal
+0068,2010,Drip Feed,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.64,www.doomworld.com/idgames/levels/doom2/Ports/d-f/dripfeed
+0069,2010,Epic 2,Doom 2,32,TRUE,FALSE,FALSE,TRUE,16.49,www.doomworld.com/idgames/levels/doom2/megawads/epic2
+0070,2010,Stronghold - On the Edge of Chaos,Doom 2,39,TRUE,TRUE,FALSE,TRUE,148,stronghold.drdteam.org/
+0071,2011,Plutonia: Revisited,Doom 2,32,TRUE,TRUE,FALSE,TRUE,4.94,www.doomworld.com/idgames/levels/doom2/Ports/megawads/prcp
+0072,2011,Vaporware (DEMO),Doom 2,1,TRUE,FALSE,FALSE,TRUE,7.5,esselfortium.net/wasd/vaprdemo.zip
+0073,2011,Lunatic,Doom 2,5,TRUE,FALSE,FALSE,TRUE,3.87,www.doomworld.com/idgames/levels/doom2/Ports/j-l/lunatic
+0074,2011,Double Impact,Doom,9,TRUE,TRUE,TRUE,TRUE,1.31,www.doomworld.com/idgames/levels/doom/Ports/d-f/dbimpact
+0075,2011,Vanguard,Doom 2,13,TRUE,FALSE,FALSE,TRUE,9.45,www.doomworld.com/idgames/levels/doom2/Ports/v-z/vanguard
+0076,2011,Reverie,Doom 2,32,TRUE,TRUE,TRUE,TRUE,4.05,www.doomworld.com/idgames/levels/doom2/megawads/reverie
+0077,2011,Jenesis,Doom 2,32,TRUE,TRUE,FALSE,TRUE,6.36,www.doomworld.com/idgames/levels/doom2/Ports/megawads/jenesis
+0078,2011,Icebound,Heretic,1,TRUE,FALSE,FALSE,TRUE,1.02,www.doomworld.com/idgames/levels/heretic/Ports/ice-lutz
+0079,2011,Mandrill Ass Project,Doom 2,9,TRUE,FALSE,FALSE,FALSE,3.35,www.doomworld.com/idgames/levels/doom2/Ports/m-o/mandrill
+0080,2011,Khorus' Speedy Shit,Doom 2,32,TRUE,FALSE,FALSE,TRUE,1.11,www.doomworld.com/idgames/levels/doom2/megawads/kssht
+0081,2012,Doom the Way id Did,Doom,27,TRUE,TRUE,TRUE,TRUE,1.91,www.doomworld.com/idgames/levels/doom/megawads/dtwid
+0082,2012,Strife: Absolute Order,Strife,6,TRUE,FALSE,FALSE,TRUE,23.48,www.doomworld.com/idgames/levels/strife/sabord
+0083,2012,Putrefier,Doom 2,1,TRUE,FALSE,FALSE,TRUE,20.1,www.doomworld.com/idgames/levels/doom2/Ports/m-o/ma_put
+0084,2012,5till L1 Complex,Doom 2,1,TRUE,FALSE,FALSE,TRUE,4.04,www.doomworld.com/idgames/levels/doom2/Ports/0-9/5l1c
+0085,2012,Community Chest 4,Doom 2,32,TRUE,FALSE,FALSE,TRUE,23.47,www.doomworld.com/idgames/levels/doom2/Ports/megawads/cchest4
+0086,2012,Reelism,Doom 2,17,TRUE,TRUE,FALSE,TRUE,101.5,thekinsie.com/reelism/
+0087,2012,The Eye,Doom 2,1,TRUE,FALSE,FALSE,TRUE,0.9,www.doomworld.com/idgames/levels/doom2/Ports/d-f/eye
+0088,2012,Combat Shock 2,Doom 2,7,TRUE,FALSE,FALSE,TRUE,8.29,www.doomworld.com/idgames/levels/doom2/Ports/a-c/c-shock2
+0089,2012,Winter's Fury,Doom 2,14,TRUE,FALSE,FALSE,TRUE,125.37,www.dropbox.com/s/vopkdkwl8ymnkvo/Winter%27s%20Fury%20v2016.5.zip?dl=0
+0090,2012,Base Ganymede: Complete,Doom,27,TRUE,TRUE,FALSE,TRUE,2.06,www.doomworld.com/idgames/levels/doom/megawads/bgcomp
+0091,2013,Back to Saturn X: Episode 1,Doom 2,27,TRUE,TRUE,FALSE,TRUE,18.4,https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e1
+0092,2013,Doom 2 the Way id Did,Doom 2,32,TRUE,TRUE,TRUE,TRUE,1.98,www.doomworld.com/idgames/levels/doom2/megawads/d2twid
+0093,2013,Unholy Realms,Doom 2,32,TRUE,TRUE,FALSE,TRUE,8.86,www.doomworld.com/idgames/levels/doom2/megawads/ur
+0094,2013,ZDoom Community Map Project: Take II,Doom 2,1,TRUE,TRUE,FALSE,TRUE,51.39,www.doomworld.com/idgames/levels/doom2/Ports/megawads/zdcmp2
+0095,2013,Fuel Devourer,Doom 2,1,TRUE,FALSE,FALSE,TRUE,2.2,www.doomworld.com/idgames/levels/doom2/Ports/d-f/fueldevr
+0096,2013,kuchitsu,Doom 2,6,TRUE,TRUE,FALSE,FALSE,0.59,www.doomworld.com/idgames/levels/doom2/Ports/j-l/kuchitsu
+0097,2013,Forsaken Overlook,Doom 2,1,TRUE,TRUE,TRUE,TRUE,0.73,www.doomworld.com/idgames/levels/doom2/Ports/d-f/fsknovlk
+0098,2013,Stardate 20X6,Doom 2,8,TRUE,TRUE,FALSE,TRUE,4.76,www.doomworld.com/idgames/levels/doom2/Ports/s-u/stardate
+0099,2013,Pirate Doom,Doom 2,19,TRUE,TRUE,TRUE,TRUE,25.62,www.doomworld.com/idgames/levels/doom2/Ports/p-r/pirates
+0100,2013,Swim With The Whales,Doom 2,3,TRUE,TRUE,FALSE,TRUE,2.59,www.doomworld.com/idgames/levels/doom2/Ports/s-u/swtw
+0101,2014,Going Down,Doom 2,32,TRUE,FALSE,FALSE,TRUE,8.41,www.doomworld.com/idgames/levels/doom2/Ports/megawads/gd
+0102,2014,The Adventures of Square - Episode 1,NULL,26,TRUE,NULL,TRUE,NULL,42.1,adventuresofsquare.com/downloads.php
+0103,2014,Back to Saturn X - Episode 2,Doom 2,27,TRUE,TRUE,FALSE,TRUE,25,https://www.doomworld.com/idgames/levels/doom2/megawads/btsx_e2
+0104,2014,Plasmaplant,Doom 2,1,TRUE,TRUE,FALSE,TRUE,2.54,www.doomworld.com/idgames/levels/doom2/Ports/p-r/plasmap
+0105,2014,Shadows of Chronos,Hexen,6,TRUE,TRUE,FALSE,TRUE,1.24,www.doomworld.com/idgames/levels/hexen/j-l/kaiser_28
+0106,2014,Monster Hunter Ltd (Part 1),Doom 2,1,TRUE,FALSE,FALSE,TRUE,2.52,www.doomworld.com/idgames/levels/doom2/Ports/m-o/mohu1
+0107,2014,Monster Hunter Ltd (Part 2),Doom 2,1,TRUE,FALSE,FALSE,TRUE,1.77,www.doomworld.com/idgames/levels/doom2/Ports/m-o/mohu2
+0108,2014,Resurgence,Doom 2,32,TRUE,TRUE,FALSE,TRUE,13.2,www.doomworld.com/idgames/levels/doom2/Ports/megawads/resurge
+0109,2014,Mayan Mishap,Doom 2,5,TRUE,FALSE,FALSE,TRUE,6.22,www.doomworld.com/idgames/levels/doom2/Ports/s-u/t-maya
+0110,2014,Urban Brawl: Dead of Winter,Doom 2,2,TRUE,FALSE,FALSE,TRUE,19.51,www.doomworld.com/idgames/levels/doom2/Ports/a-c/ad2dow
+0111,2014,Thy Flesh - Turned into a draft-excluder,Doom,9,TRUE,FALSE,FALSE,TRUE,1.72,www.doomworld.com/idgames/levels/doom/Ports/d-f/draftex
+0112,2015,Sunlust,Doom 2,32,TRUE,TRUE,TRUE,TRUE,23.26,www.doomworld.com/idgames/levels/doom2/Ports/megawads/sunlust
+0113,2015,Erkattäññe,Doom 2,11,TRUE,TRUE,TRUE,TRUE,1.21,www.doomworld.com/idgames/levels/doom2/d-f/erkatane
+0114,2015,Skulldash,Doom 2,50,TRUE,TRUE,FALSE,TRUE,82.3,www.joshuaosullivan.co.uk/skulldash/
+0115,2015,Swift Death,Doom 2,32,TRUE,TRUE,TRUE,TRUE,1.51,www.doomworld.com/idgames/levels/doom2/Ports/megawads/swideath
+0116,2015,Breach,Doom 2,1,TRUE,FALSE,FALSE,TRUE,9.82,www.doomworld.com/idgames/levels/doom2/Ports/a-c/breach
+0117,2015,Valiant,Doom 2,32,TRUE,TRUE,FALSE,TRUE,24.42,www.doomworld.com/idgames/levels/doom2/Ports/megawads/valiant
+0118,2015,50 Shades of Graytall,Doom 2,18,TRUE,TRUE,FALSE,TRUE,4.86,www.doomworld.com/idgames/levels/doom2/Ports/megawads/50shades
+0119,2015,Sheer Poison,Doom,1,TRUE,FALSE,FALSE,TRUE,0.43,www.doomworld.com/idgames/levels/doom/s-u/shpo1
+0120,2015,dead.wire,Doom 2,1,TRUE,FALSE,FALSE,NULL,11.1,www.doomworld.com/vb/wads-mods/74767-xasermap-dead-wire/
+0121,2015,Return to Hadron,Doom,9,TRUE,TRUE,FALSE,TRUE,0.87,www.doomworld.com/idgames/levels/doom/Ports/g-i/hadron
+0122,2016,Tech Gone Bad,Doom,1,TRUE,TRUE,TRUE,TRUE,0.21,www.doomworld.com/idgames/levels/doom/Ports/d-f/e1m8b
+0123,2016,Ancient Aliens,Doom 2,32,TRUE,TRUE,FALSE,TRUE,35.85,www.doomworld.com/idgames/levels/doom2/Ports/megawads/aaliens
+0124,2016,Nihility: Infinite Teeth,Doom,9,TRUE,FALSE,NULL,TRUE,16.66,www.doomworld.com/vb/wads-mods/85591-nihility-infinite-teeth-shareware-episode-v1-21/
+0125,2016,Mutiny,Doom 2,16,TRUE,TRUE,TRUE,TRUE,5.3,www.doomworld.com/idgames/levels/doom2/Ports/megawads/mutiny
+0126,2016,Absolutely Killed,Doom,9,TRUE,FALSE,FALSE,TRUE,0.68,www.doomworld.com/idgames/levels/doom/Ports/j-l/killed
+0127,2016,Elf Gets Pissed,Heretic,9,TRUE,TRUE,FALSE,TRUE,3.6,www.doomworld.com/idgames/levels/heretic/Ports/elfgp
+0128,2016,Comatose,Doom 2,1,TRUE,FALSE,FALSE,TRUE,6.89,www.doomworld.com/idgames/levels/doom2/Ports/a-c/comatose
+0129,2016,Miasma,Doom 2,1,TRUE,TRUE,FALSE,TRUE,2.42,www.doomworld.com/idgames/levels/doom2/Ports/m-o/miasma
+0130,2016,Alpha Accident: Terra Nova,Doom,9,TRUE,TRUE,TRUE,TRUE,2.99,www.doomworld.com/idgames/levels/doom/Ports/a-c/aa_e1
+0131,2016,Japanese Community Project,Doom 2,32,TRUE,TRUE,FALSE,TRUE,12.69,www.doomworld.com/idgames/levels/doom2/Ports/megawads/jpcp
+0132,2016,WolfenDoom - Blade of Agony: Episode 1,(STANDALONE),36,TRUE,FALSE,FALSE,TRUE,406,boa.realm667.com/index.php/download
+0133,2017,lilith.pk3,Doom 2,7,TRUE,FALSE,FALSE,TRUE,39.53,www.doomworld.com/idgames/levels/doom2/Ports/j-l/lilith
+0134,2017,Shadows of the Nightmare Realm,Doom 2,5,TRUE,FALSE,FALSE,TRUE,34.64,www.doomworld.com/idgames/levels/doom2/Ports/s-u/sotnr
+0135,2017,No End in Sight,Doom,38,TRUE,TRUE,FALSE,TRUE,6.03,www.doomworld.com/idgames/levels/doom/Ports/megawads/neis
+0136,2017,dead.air,Doom 2,1,TRUE,FALSE,FALSE,NULL,8.03,www.doomworld.com/forum/topic/92135-deadair-v2/
+0137,2017,Brigandine,Doom 2,1,TRUE,FALSE,FALSE,TRUE,7.8,www.doomworld.com/forum/topic/92776-brigandine-rc2-updated-2017-05-13/
+0138,2017,Counterattack,Doom 2,9,TRUE,TRUE,FALSE,TRUE,8.03,www.doomworld.com/idgames/levels/doom2/Ports/m-o/mek-catk
+0139,2017,Legacy of Heroes,Doom 2,11,TRUE,FALSE,FALSE,TRUE,6.84,www.doomworld.com/idgames/levels/doom2/Ports/j-l/legher
+0140,2017,Saturnine Chapel,Doom 2,2,TRUE,FALSE,FALSE,TRUE,1.79,www.doomworld.com/idgames/levels/doom2/Ports/s-u/satchap
+0141,2017,Stardate 20x7,Doom 2,11,TRUE,TRUE,FALSE,TRUE,7.52,www.doomworld.com/idgames/levels/doom2/Ports/s-u/sd20x7
+0142,2017,Void and Rainbow,Doom 2,1,TRUE,FALSE,FALSE,FALSE,24.5,www.doomworld.com/forum/topic/97787-void-and-rainbow/
+0143,2018,Avactor,Doom 2,12,TRUE,NULL,NULL,NULL,128.18,www.doomworld.com/forum/topic/101647-avactor-last-update-is-out/
+0144,2018,Dark Universe - Part 1,Doom 2,6,TRUE,FALSE,FALSE,TRUE,23.44,www.doomworld.com/idgames/levels/doom2/Ports/d-f/dupart1
+0145,2018,Adventures of Square - Episode 2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+0146,2018,Preacher,Doom 2,9,TRUE,TRUE,TRUE,TRUE,15.01,www.doomworld.com/idgames/levels/doom2/Ports/p-r/preacher
+0147,2018,Dimension of the Boomed,Doom 2,9,TRUE,NULL,FALSE,TRUE,66.4,www.doomworld.com/forum/topic/92574-dimension-of-the-boomed/
+0148,2018,Struggle - Antaresian Legacy,Doom 2,32,TRUE,TRUE,FALSE,TRUE,19.75,www.doomworld.com/idgames/levels/doom2/Ports/megawads/strg
+0149,2018,REKKR,Doom,36,TRUE,TRUE,TRUE,TRUE,13.4,http://manbitesshark.com/downloads.html
+0150,2018,Maskim Xul,Doom 2,5,TRUE,FALSE,FALSE,FALSE,11.56,www.doomworld.com/idgames/levels/doom2/Ports/m-o/maskimxul
+0151,2018,Doom: The Golden Souls 2,Doom 2,NULL,TRUE,NULL,NULL,NULL,197.14,www.moddb.com/mods/doom-the-golden-souls-2/downloads/doom-the-golden-souls-2-14
+0152,2018,UAC Invasion: The Supply Depot,Doom 2,1,TRUE,TRUE,FALSE,TRUE,8.84,www.doomworld.com/idgames/levels/doom2/Ports/s-u/supplydp
+0153,2019,Eviternity,Doom 2,32,TRUE,TRUE,FALSE,TRUE,47.62,www.doomworld.com/idgames/levels/doom2/Ports/megawads/eviternity
+0154,2019,Verdant Citadel,Doom 2,1,TRUE,FALSE,FALSE,TRUE,11.68,www.doomworld.com/idgames/levels/doom2/Ports/v-z/vercit
+0155,2019,Paradise,Doom 2,33,TRUE,FALSE,FALSE,TRUE,53.4,www.doomworld.com/forum/topic/106058-paradise-v2-multiplayer-beta-on-page-3-4122020/
+0156,2019,Hell-Forged,Doom 2,10,TRUE,TRUE,TRUE,TRUE,24.2,www.moddb.com/games/doom/downloads/hell-forged-v100c
+0157,2019,Finely Crafted Fetish Film,Doom 2,7,TRUE,NULL,NULL,TRUE,4.7,www.doomworld.com/forum/topic/104608-finely-crafted-fetish-film-7-puzzle-maps-for-boom/
+0158,2019,Hocus Pocus Doom,Doom 2,40,TRUE,FALSE,FALSE,TRUE,34.56,www.doomworld.com/idgames/levels/doom2/Ports/megawads/hocus
+0159,2019,Shotgun Symphony,Doom,9,TRUE,FALSE,FALSE,TRUE,2.14,www.doomworld.com/idgames/levels/doom/Ports/s-u/sgnsym
+0160,2019,Lost Civilization,Doom 2,22,TRUE,FALSE,FALSE,TRUE,38.05,www.doomworld.com/idgames/levels/doom2/Ports/megawads/joi_lstcv15
+0161,2019,Remnant,Doom 2,1,TRUE,FALSE,FALSE,TRUE,5.8,www.doomworld.com/idgames/levels/doom2/Ports/p-r/remnant
+0162,2019,The Wayfarer,Heretic,9,TRUE,TRUE,FALSE,TRUE,17.48,www.doomworld.com/idgames/levels/heretic/Ports/wayfarer
