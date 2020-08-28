@@ -1,6 +1,28 @@
 # Doom's Cacowards SQL - A database queried with Jupyter Notebook
 
-## 0. ABOUT
+By Daniel Palacio - 2020.
+
+## 0. INDEX
+
+1. INTRODUCTION</br>
+1.1. About</br>
+1.2. Useful Links</br>
+
+2. IMPORTANT INFORMATION ABOUT THE DATABASE</br>
+2.1. WADs</br>
+2.2. WAD Additional Features</br>
+2.3. WAD Authors</br>
+
+3. HOW TO QUERY THE DATABASE
+
+4. GLOSSARY
+
+5. CREDITS
+
+---
+## 1. INTRODUCTION
+
+### 1.1. ABOUT
 
 The following project was started with several objectives in mind, that can be summarized like this:
 
@@ -10,16 +32,41 @@ The following project was started with several objectives in mind, that can be s
 * IV. To eventually keep updating the database with more information.
 * V. To have an opportunity to practice writing several pages of documentation in an organized and tidy way (with the added challenge that I'm not a native English speaking person).
 
-For all these reasons, I chose as a subject the Cacoward Awards, which celebrates the best user-made creations for the -still- immensely popular FPS _Doom_ franchise. Should you feel confused about what it is actually about, there is a detailed glossary on Section 2 to clear all your doubts. Also, you can check the following links before continuing to the next section:
+For all these reasons, I chose as a subject the Cacoward Awards, which celebrates the best user-made creations for the -still- immensely popular FPS _Doom_ franchise. 
 
-**Cacowards per Year:** [2004](https://www.doomworld.com/11years/) - [2005](https://www.doomworld.com/12years/) - [2006](https://www.doomworld.com/13years/) - [2007](https://www.doomworld.com/14years/) - [2008](https://www.doomworld.com/15years/) - [2009](https://www.doomworld.com/16years/) - [2010](https://www.doomworld.com/17years/) - [2011](https://www.doomworld.com/18years/) - [2012](https://www.doomworld.com/19years/) - [2013](https://www.doomworld.com/20years/) - [2014](https://www.doomworld.com/21years/) - [2015](https://www.doomworld.com/22years/) - [2016](https://www.doomworld.com/23years/) - [2017](https://www.doomworld.com/24years/) - [2018](https://www.doomworld.com/cacowards/2018/) - [2019](https://www.doomworld.com/cacowards/2019/)
+### 1.2. USEFUL LINKS
 
-**Other Useful Links:** 
+If you feel confused about what it is all actually about, you can check the following links before continuing to the next section; and if you still have some doubts, you will find a detailed glossary on Section 2.
+
+**CACOWARDS PER YEAR:** [2004](https://www.doomworld.com/11years/) - [2005](https://www.doomworld.com/12years/) - [2006](https://www.doomworld.com/13years/) - [2007](https://www.doomworld.com/14years/) - [2008](https://www.doomworld.com/15years/) - [2009](https://www.doomworld.com/16years/) - [2010](https://www.doomworld.com/17years/) - [2011](https://www.doomworld.com/18years/) - [2012](https://www.doomworld.com/19years/) - [2013](https://www.doomworld.com/20years/) - [2014](https://www.doomworld.com/21years/) - [2015](https://www.doomworld.com/22years/) - [2016](https://www.doomworld.com/23years/) - [2017](https://www.doomworld.com/24years/) - [2018](https://www.doomworld.com/cacowards/2018/) - [2019](https://www.doomworld.com/cacowards/2019/)
+
+**GETTING THE REQUIRED GAMES:**
+
+If you want the whole _Doom_ franchise, you can check the following [link](https://store.steampowered.com/bundle/15366/DOOM_Franchise_Bundle/).
+If you only want the games to specifically run the Cacoward entries, you have the following options:
+
+- **Bundles (recommended):** 
+
+[Doom Classic Complete](https://store.steampowered.com/sub/18397/) **AND** [Heretic + HeXen Collection](https://store.steampowered.com/sub/439/).
+
+Note that you will still need to buy _Strife_ individually.
+
+- **Individual titles:**
+
+| Title | GOG (DRM-Free) | Steam |
+|:-----:|:--------------:|:-----:|
+| _DOOM_ | [YES](https://www.gog.com/game/the_ultimate_doom) | [YES](https://store.steampowered.com/app/2280/Ultimate_Doom/) |
+| _DOOM II_ | [YES](https://www.gog.com/game/doom_ii_final_doom) | [YES](https://store.steampowered.com/app/2300/DOOM_II/) |
+| _Heretic_ | NO | [YES](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/) |
+| _Hexen_ | NO | [YES](https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/) |
+| _Strife_ | [YES](https://www.gog.com/game/strife_veteran_edition) | [YES](https://store.steampowered.com/app/317040/The_Original_Strife_Veteran_Edition/) |
+
+**OTHER USEFUL LINKS:** 
 - [Doom Wiki's Cacoward page](https://doomwiki.org/wiki/Cacowards) 
 - [/idgames/ archive](https://www.doomworld.com/idgames/) 
 - [GZDoom](https://www.zdoom.org/index) - The source port I personally use, though there are other options with the same quality, so I encourage you to research them before choosing one. The full list of available source ports can be consulted [here](https://doomwiki.org/wiki/Source_port#List_of_source_ports).
 
-## 1. IMPORTANT INFORMATION ABOUT THE DATABASE
+## 2. IMPORTANT INFORMATION ABOUT THE DATABASE
 
 The following is a detailed description about how the data was organized and the reasons behind those decisions. Before querying the database it is strongly recommended to read it in its entirety to avoid potential confusions. And as expressed before, if there is a term that you don't know or don't fully understand, there is a glossary where most likely it will be explained.
 
@@ -35,7 +82,7 @@ The following is a detailed description about how the data was organized and the
 
 * There might be potential features to be further included: most importantly, the specific contribution that a person made for a project (i.e.: as a beta-tester, musician, level designer, etc), the inclusion of more real names or e-mail addresses, along with nationalities, and the mention of beta-testers or other contributors for projects made by one or two people. As of the moment of writing this document, the _Doom_ Community isn't aware of the existence of this database, and further completion will depend on their interest once they're eventually contacted. 
 
-### 1.1. WADS
+### 2.1. WADS
 
 * A lot of wads (specially the most recent ones) will require a [source port]((https://doomwiki.org/wiki/Source_port#List_of_source_ports)). The database doesn't indicate which ones run with the original _Doom_ engine and which ones require one of these advanced ports. It isn't necessary to detail this requirement, since the safest option is to always use a source port.
 
@@ -54,13 +101,13 @@ The following is a detailed description about how the data was organized and the
   - _"The Adventure of Square"_ won a Cacoward for its first episode and then a few years later it won another one for the second episode. However, since both episodes are merged, the entry 145 (corresponding to the second episode) was intentionally left empty to avoid potential duplicates, depending on the type of certain queries (i.e.: _"What's the total size in MBs for all the Cacoward's entries?"_).
   - Some WADs have different versions to download, which means that the Size on MB may slightly vary depending on your version. This applies, for instance, to _"REKKR"_ or _"Dimension of the Boomed"_.
 
-### 1.2 WAD additional contents
+### 2.2 WAD Additional Features
 
 * Even if there is a single new graphic, sprite or texture (i.e.: simply a new sky, for instance), that's enough to classify as TRUE the New Graphics column of that wad. Same applies for new sounds and/or new music.
 
 * In order to be TRUE, there has to be music from another game, or music specifically written for the wad. For instance, if a _Doom 2_ WAD uses music from "Heretic", it will be considered TRUE, while if a _Doom 2_ WAD uses music from another _Doom 2_ level or from _Doom_ it will count as FALSE.
 
-### 1.3 WAD Authors
+### 2.3 WAD Authors
 
 * If one author has had several nicks across his modding career, the database will mention only the most popular (i.e.: the one mentioned on the author's [Doom Wiki](https://doomwiki.org/wiki/Entryway)'s page title) or the most recent one.
 
@@ -68,17 +115,21 @@ The following is a detailed description about how the data was organized and the
 
 * Deceased authors will have their e-mail address fields marked as "(DECEASED)".
 
-## 2. GLOSSARY (in alphabetical order)
+## 3. HOW TO QUERY THE DATABASE
+
+It is very simple. Download the files _cacowards_sql_querying_on_jupyter.ipynb_ and _cacowards_sqlite.db_, making sure they are on the same directory. Then simply execute the .ipynb file by running a Jupyter Notebook.
+
+## 4. GLOSSARY (in alphabetical order)
 
 The following definitions were mostly extracted from Wikipedia and the [Doom Wiki](https://doomwiki.org/wiki/Entryway) (there was some minor editing involved though). If you're already familiar with _Doom_ and the Cacowards ceremony, you can skip this section.
 
-**2.1. CACOWARDS:** The Cacowards are an annual event featured at the [Doomworld website](https://www.doomworld.com/cacowards/), targeting the anniversary of _Doom_'s release, which aims to single out the best WAD/mods released in the year prior and give them an award. Exceptionally bad, funny, or unique WAD/mods are sometimes given special irregular awards, and runners up are also mentioned. Modifications considered are subjected to a year-long nomination process through the forums, the thread for which is usually started immediately after the new year passes. 
+**4.1. CACOWARDS:** The Cacowards are an annual event featured at the [Doomworld website](https://www.doomworld.com/cacowards/), targeting the anniversary of _Doom_'s release, which aims to single out the best WAD/mods released in the year prior and give them an award. Exceptionally bad, funny, or unique WAD/mods are sometimes given special irregular awards, and runners up are also mentioned. Modifications considered are subjected to a year-long nomination process through the forums, the thread for which is usually started immediately after the new year passes. 
 
 The series started in 2004 with the so-called 11th edition, which attempted to replicate the success of similar articles in the previous year's [10 Years of Doom](https://www.doomworld.com/10years/) celebration, the [Top 100 WADs of All Time"](https://www.doomworld.com/10years/bestwads/) and the [Top 10 Infamous WADs](https://www.doomworld.com/10years/bestwads/infamous.php).
 
-**2.2. COOPERATIVE:** Cooperative gameplay, often referred to as co-op or coop, is a multiplayer game mode in which human players cooperate against a given game's monsters.
+**4.2. COOPERATIVE:** Cooperative gameplay, often referred to as co-op or coop, is a multiplayer game mode in which human players cooperate against a given game's monsters.
 
-**2.3. DEATHMATCH:** Deathmatch is a multiplayer game style pioneered by _Doom_ in which players face off against each other, their computers connected to a common server via a network.
+**4.3. DEATHMATCH:** Deathmatch is a multiplayer game style pioneered by _Doom_ in which players face off against each other, their computers connected to a common server via a network.
 
 - A point, called a frag, is granted to the players whenever they kill an opponent.
 - Frags are deducted when a player commits suicide, or dies accidentally (i.e.: by falling into lava).
@@ -87,11 +138,11 @@ The series started in 2004 with the so-called 11th edition, which attempted to r
 
 In more recent times, classic deathmatch has become known as FFA (free-for-all), in order to differentiate it from other player-vs-player game modes.
 
-**2.4. DEHACKED:** It is an editor originally created for the original _Doom_ that allows the operation of the executable to be changed. Hit points, sounds, frame sequences, text strings and several other miscellaneous values can be changed. Modifications can be distributed in the form of DeHackEd "patches" which can be applied to the executable. In order to do this, DeHackEd has the ability to generate an exact copy of the _Doom_ or _Doom_ II executable.
+**4.4. DEHACKED:** It is an editor originally created for the original _Doom_ that allows the operation of the executable to be changed. Hit points, sounds, frame sequences, text strings and several other miscellaneous values can be changed. Modifications can be distributed in the form of DeHackEd "patches" which can be applied to the executable. In order to do this, DeHackEd has the ability to generate an exact copy of the _Doom_ or _Doom_ II executable.
 
 Even though many advanced effects can be achieved with DeHackEd, it does not offer the complete flexibility that a custom source port can provide.
 
-**2.5. DOOM:** A series of popular action videogames that consolidated the first-person shooter genre. With a science fiction and horror style, it gives the players the role of [space] marines who find themselves in the focal point of an invasion from hell. The games [also] introduced deathmatch and cooperative play (...), and helped further the practice of allowing and encouraging fan-made modifications ("mods") of commercial video games. 
+**4.5. DOOM:** A series of popular action videogames that consolidated the first-person shooter genre. With a science fiction and horror style, it gives the players the role of [space] marines who find themselves in the focal point of an invasion from hell. The games [also] introduced deathmatch and cooperative play (...), and helped further the practice of allowing and encouraging fan-made modifications ("mods") of commercial video games. 
 
 Entries releases: 
 
@@ -104,24 +155,24 @@ Entries releases:
 * _DOOM [2016] = May 13, 2016_
 * _DOOM Eternal = March 20, 2020_
 
-**2.6. /idgames/ ARCHIVE:** It is the largest online archive of levels, modifications, tools and other material for _Doom_ engine games. To alleviate bandwidth usage and ensure that data will not be lost, the archive is mirrored on various alternative FTP sites around the world which are recommended for downloads.
+**4.6. /idgames/ ARCHIVE:** It is the largest online archive of levels, modifications, tools and other material for _Doom_ engine games. To alleviate bandwidth usage and ensure that data will not be lost, the archive is mirrored on various alternative FTP sites around the world which are recommended for downloads.
 
 The directory can be consulted on the following [link](https://www.doomworld.com/idgames/).
 
-**2.7. IWAD:** The acronym IWAD is generally interpreted as "internal WAD" and refers to a WAD file which contains all of the external data for a complete game. In order to be identified as IWAD, a file must contain the "IWAD" (49 57 41 44) magic identifier as the first four bytes in its header. An IWAD file is required for execution of any of the stock _Doom_ engine games. This is in contrast to PWADs, which are "patch" WADs intended to replace or augment the content found in the IWAD.
+**4.7. IWAD:** The acronym IWAD is generally interpreted as "internal WAD" and refers to a WAD file which contains all of the external data for a complete game. In order to be identified as IWAD, a file must contain the "IWAD" (49 57 41 44) magic identifier as the first four bytes in its header. An IWAD file is required for execution of any of the stock _Doom_ engine games. This is in contrast to PWADs, which are "patch" WADs intended to replace or augment the content found in the IWAD.
 
-**2.8. MOD:** A mod (short for "modification") is an alteration by players or fans of a video game that changes one or more aspects of that video game, such as how it looks or behaves. Mods may range from small changes and tweaks to complete overhauls, and can extend the replay value and interest of the game. Popular games can have tens of thousands of mods created for them.
+**4.8. MOD:** A mod (short for "modification") is an alteration by players or fans of a video game that changes one or more aspects of that video game, such as how it looks or behaves. Mods may range from small changes and tweaks to complete overhauls, and can extend the replay value and interest of the game. Popular games can have tens of thousands of mods created for them.
 
-**2.9. SINGLE PLAYER:** Single player is the baseline game mode in _Doom_. The player starts in a level and has to find the exit, while killing all the monsters that wander across the different areas. When the player dies in this game mode, the level is reset and the player has to start it again, but now only wielding a pistol.
+**4.9. SINGLE PLAYER:** Single player is the baseline game mode in _Doom_. The player starts in a level and has to find the exit, while killing all the monsters that wander across the different areas. When the player dies in this game mode, the level is reset and the player has to start it again, but now only wielding a pistol.
 
-**2.10. SKILL LEVELS:** Each game skill level provides general difficulty settings that allow a greater variety of players to enjoy the game, allowing novices to face fewer opponents even with advantages for the player, and giving those who have mastered the game a challenge against many monsters, possibly with enhanced aggressiveness.
+**4.10. SKILL LEVELS:** Each game skill level provides general difficulty settings that allow a greater variety of players to enjoy the game, allowing novices to face fewer opponents even with advantages for the player, and giving those who have mastered the game a challenge against many monsters, possibly with enhanced aggressiveness.
 
-**2.11. SOURCE PORT:** A source port is a port of the source code for the _Doom_ engine. The term usually denotes a modification made by fans, as opposed to any of the officially licensed versions produced by id Software (the software company responsible for the _Doom_ franchise). The original purpose of source ports was cross-platform compatibility, but shortly after the release of the source code, programmers were correcting old, unaddressed _Doom_ bugs and deficiencies in their own source ports, and later began adding new features to alter gameplay.
+**4.11. SOURCE PORT:** A source port is a port of the source code for the _Doom_ engine. The term usually denotes a modification made by fans, as opposed to any of the officially licensed versions produced by id Software (the software company responsible for the _Doom_ franchise). The original purpose of source ports was cross-platform compatibility, but shortly after the release of the source code, programmers were correcting old, unaddressed _Doom_ bugs and deficiencies in their own source ports, and later began adding new features to alter gameplay.
 
 The full list of available source ports can be consulted [here](https://doomwiki.org/wiki/Source_port#List_of_source_ports). If you find it overwhelming, as a reference I use the [GZDoom](https://www.zdoom.org/index) source port, but there are other options with the same quality, so I encourage you to research them before choosing one.
 
-**2.12. WAD:** An acronym for _"Where's All the Data?"_. It is the file format used by _Doom_ and all _Doom_-engine-based games for storing data (graphics, sounds, music, levels, and other game data).
+**4.12. WAD:** An acronym for _"Where's All the Data?"_. It is the file format used by _Doom_ and all _Doom_-engine-based games for storing data (graphics, sounds, music, levels, and other game data).
 
-## 3. CREDITS
+## 5. CREDITS
 
 The Cacoward's SQL Database was built from scratch by Daniel Palacio.
