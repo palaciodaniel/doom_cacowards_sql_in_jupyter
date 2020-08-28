@@ -1,23 +1,23 @@
 # Doom's Cacowards SQL - A database queried with Jupyter Notebook
 
-By Daniel Palacio - 2020.
+_By Daniel Palacio - August 2020._
 
 ## 0. INDEX
 
-1. INTRODUCTION</br>
-1.1. About</br>
-1.2. Useful Links</br>
+**1. [INTRODUCTION](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#1-introduction)**</br>
+1.1. [About](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#11-about)</br>
+1.2. [Useful Links](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#12-useful-links)</br>
 
-2. IMPORTANT INFORMATION ABOUT THE DATABASE</br>
-2.1. WADs</br>
-2.2. WAD Additional Features</br>
-2.3. WAD Authors</br>
+**2. [IMPORTANT INFORMATION ABOUT THE DATABASE](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#2-important-information-about-the-database)**</br>
+2.1. [WADs](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#21-wads)</br>
+2.2. [WAD Additional Features](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#22-wad-additional-features)</br>
+2.3. [WAD Authors](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#23-wad-authors)</br>
 
-3. HOW TO QUERY THE DATABASE
+**3. [HOW TO QUERY THE DATABASE](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#3-how-to-query-the-database)**
 
-4. GLOSSARY
+**4. [GLOSSARY](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#4-glossary-in-alphabetical-order)**
 
-5. CREDITS
+**5. [CREDITS](https://github.com/palaciodaniel/doom_cacowards_sql_in_jupyter/blob/master/README.md#5-credits)**
 
 ---
 ## 1. INTRODUCTION
@@ -96,7 +96,7 @@ The following is a detailed description about how the data was organized and the
 
 * If a project won a Cacoward on a certain year, but then it was later patched, the Size and URL columns will reflect these changes.
 
-### Special cases:
+#### Special cases:
   - Even though both levels from _"Monster Hunter Ltd"_ are taken as a single Cacoward entry, for practical reasons they were divided in two entries for this database.
   - _"The Adventure of Square"_ won a Cacoward for its first episode and then a few years later it won another one for the second episode. However, since both episodes are merged, the entry 145 (corresponding to the second episode) was intentionally left empty to avoid potential duplicates, depending on the type of certain queries (i.e.: _"What's the total size in MBs for all the Cacoward's entries?"_).
   - Some WADs have different versions to download, which means that the Size on MB may slightly vary depending on your version. This applies, for instance, to _"REKKR"_ or _"Dimension of the Boomed"_.
