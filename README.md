@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/main?filepath=cacowards_sql_querying_on_jupyter.ipynb)
+
 # Doom's Cacowards SQL - A database queried with Jupyter Notebook
 
 _By Daniel Palacio - August 2020._
@@ -175,4 +177,4 @@ The full list of available source ports can be consulted [here](https://doomwiki
 
 ## 5. CREDITS
 
-The Cacoward's SQL Database was built from scratch by Daniel Palacio.
+The Cacoward's SQL Database, along with its documentation, were built from scratch by **Daniel Palacio**.
