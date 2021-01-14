@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/main?filepath=cacowards_sql_querying_on_jupyter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb)
 
 # Doom's Cacowards SQL - A database queried with Jupyter Notebook
 
