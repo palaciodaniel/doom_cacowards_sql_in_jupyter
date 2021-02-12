@@ -119,7 +119,13 @@ The following is a detailed description about how the data was organized and the
 
 ## 3. HOW TO QUERY THE DATABASE
 
-It is very simple. Download the files _cacowards_sql_querying_on_jupyter.ipynb_ and _cacowards_sqlite.db_, making sure they are on the same directory. Then simply execute the .ipynb file by running a Jupyter Notebook.
+**NOTE:** At least a basic knowledge of SQL is necessary to consult the database.
+
+To start querying, simply follow [this link](https://mybinder.org/v2/gh/palaciodaniel/doom_cacowards_sql_in_jupyter/master?filepath=cacowards_sql_querying_on_jupyter.ipynb) (which is also accessible by pressing the **Binder** button at the upper part of this document) and wait a few seconds until the Jupyter Notebook is prepared.
+
+Once everything is loaded, proceed to the very bottom, and you will find a special cell where you will be invited to write your own queries. Once you are ready, press the **Run** icon on the upper menu. If the cell fails to run, go to **Kernel > Restart and Run All** and that should be enough.
+
+If you want to continue exploring the database, just edit the last cell with your new query and then press **Run** again. Repeat as necessary.
 
 ## 4. GLOSSARY (in alphabetical order)
 
